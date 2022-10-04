@@ -9,6 +9,7 @@
 ## Results
 
 2018 was a tough year for Green Stocks. From a basket of 12 green stocks, only 2 had a positive return (ENPH & RUN) In general the whole sector was heavily affected by low trading volume and a lost of confidence from investors due to regulatory risks.
+
 ![Captura de Pantalla 2022-10-03 a la(s) 20 54 07](https://user-images.githubusercontent.com/113866707/193721760-d6216db3-4d44-4078-b16c-559b5d4a98eb.png)
 
   
